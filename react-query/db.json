@@ -1,0 +1,83 @@
+{
+  "superheroes": [
+    {
+      "id": "1",
+      "name": "Batman",
+      "alterEgo": "Bruce"
+    },
+    {
+      "id": "2",
+      "name": "Super",
+      "alterEgo": "Will"
+    },
+    {
+      "id": "3",
+      "name": "Spie",
+      "alterEgo": "Spiderrr"
+    },
+    {
+      "id": "56e4",
+      "name": "Flash",
+      "alterEgo": "Arrr"
+    }
+  ],
+  "friends": [
+    {
+      "id": "1",
+      "name": "Chandler",
+      "alterEgo": "Bruce"
+    },
+    {
+      "id": "2",
+      "name": "Joe",
+      "alterEgo": "Will"
+    },
+    {
+      "id": "3",
+      "name": "Rachel",
+      "alterEgo": "Spiderrr"
+    }
+  ],
+  "users": [
+    {
+      "id": "anujvwww.com",
+      "channelId": "codevolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevolution",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": "1",
+      "name": "red"
+    },
+    {
+      "id": "2",
+      "name": "Blue"
+    },
+    {
+      "id": "3",
+      "name": "green"
+    },
+    {
+      "id": "4",
+      "name": "yellow"
+    },
+    {
+      "id": "5",
+      "name": "black"
+    },
+    {
+      "id": "6",
+      "name": "orange"
+    }
+  ]
+}
